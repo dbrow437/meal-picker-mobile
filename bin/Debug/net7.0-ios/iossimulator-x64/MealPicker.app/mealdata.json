@@ -1,0 +1,73 @@
+﻿[
+  {
+    "Id": 1,
+    "Name": "Vegan Burgers and Fries",
+    "Description": "Impossible Burgers and fries made in the airy fryer",
+    "Image": "./image/burger.png",
+    "MealType": 2
+  },
+  {
+    "Id": 2,
+    "Name": "Noodles with basil",
+    "Description": "Authenicate Thai noodle dish",
+    "Image": "./images/thai-basil-noodle.svg",
+    "MealType": 2
+  },
+  {
+    "Id": 3,
+    "Name": "Puerto Rican Rice",
+    "Description": "Arroz con pollo is made in one pan",
+    "Image": "./images/puerto_rican_chicken_and_rice.svg",
+    "MealType": 2
+  },
+  {
+    "Id": 4,
+    "Name": "Pizza",
+    "Description": "Pizza cooked with dough from Mona Lisa on a pizza stone",
+    "Image": "./images/puerto_rican_chicken_and_rice.svg",
+    "MealType": 2
+  },
+  {
+    "Id": 5,
+    "Name": "Lox and Bagel",
+    "Description": "Lox, cream cheese and bagel",
+    "Image": "./images/puerto_rican_chicken_and_rice.svg",
+    "MealType": 0
+  },
+  {
+    "Id": 6,
+    "Name": "Breakfast Tacos",
+    "Description": "Tacos with eggs and potato",
+    "Image": "./images/puerto_rican_chicken_and_rice.svg",
+    "MealType": 0
+  },
+  {
+    "Id": 7,
+    "Name": "Pancakes",
+    "Description": "Protien pamcakes with fruit or chocolate",
+    "Image": "./images/puerto_rican_chicken_and_rice.svg",
+    "MealType": 0
+  },
+  {
+    "Id": 8,
+    "Name": "Protien Bar",
+    "Description": "Chococlate peanut butter baked bar",
+    "Image": "./images/puerto_rican_chicken_and_rice.svg",
+    "MealType": 3
+  },
+  {
+    "Id": 9,
+    "Name": "Ice Cream",
+    "Description": "Nicks cookies and cream",
+    "Image": "./images/puerto_rican_chicken_and_rice.svg",
+    "MealType": 3
+  },
+  {
+    "Id": 10,
+    "Name": "Turkey Sandwich",
+    "Description": "Classic turkey and cheese sandwhich",
+    "Image": "./images/puerto_rican_chicken_and_rice.svg",
+    "MealType": 1
+  }
+
+]

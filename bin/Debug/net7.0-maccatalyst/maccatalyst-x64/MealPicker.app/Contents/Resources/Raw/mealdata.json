@@ -1,0 +1,73 @@
+﻿[
+  {
+    "Id": 1,
+    "Name": "Vegan Burgers and Fries",
+    "Description": "Burger and fries made in the airy fryer. Impossible or Beyond burgers can be used",
+    "Image": "./image/burger.png",
+    "MealType": 2
+  },
+  {
+    "Id": 2,
+    "Name": "Noodles with basil",
+    "Description": "Authenicate Thai noodle dish with different levels of spice depending on birds' eye chilis amounts. This goes well with a simple stir-fry like bak choi greens",
+    "Image": "./images/thai-basil-noodle.svg",
+    "MealType": 2
+  },
+  {
+    "Id": 3,
+    "Name": "Puerto Rican Chicken and Rice",
+    "Description": " Arroz con pollo is made in one pan. This comforting dish is easy to make and the pefect nourishing weekenight meal.",
+    "Image": "./images/puerto_rican_chicken_and_rice.svg",
+    "MealType": 2
+  },
+  {
+    "Id": 4,
+    "Name": "Pizza",
+    "Description": "Pizza cooked with dough from Mona Lisa on a pizza stone",
+    "Image": "./images/puerto_rican_chicken_and_rice.svg",
+    "MealType": 2
+  },
+  {
+    "Id": 5,
+    "Name": "Lox and Bagel",
+    "Description": "Pizza cooked with dough from Mona Lisa on a pizza stone",
+    "Image": "./images/puerto_rican_chicken_and_rice.svg",
+    "MealType": 0
+  },
+  {
+    "Id": 6,
+    "Name": "Breakfast Tacos",
+    "Description": "Pizza cooked with dough from Mona Lisa on a pizza stone",
+    "Image": "./images/puerto_rican_chicken_and_rice.svg",
+    "MealType": 0
+  },
+  {
+    "Id": 7,
+    "Name": "Pancakes",
+    "Description": "Pizza cooked with dough from Mona Lisa on a pizza stone",
+    "Image": "./images/puerto_rican_chicken_and_rice.svg",
+    "MealType": 0
+  },
+  {
+    "Id": 8,
+    "Name": "Protien Bar",
+    "Description": "Pizza cooked with dough from Mona Lisa on a pizza stone",
+    "Image": "./images/puerto_rican_chicken_and_rice.svg",
+    "MealType": 3
+  },
+  {
+    "Id": 9,
+    "Name": "Ice Cream",
+    "Description": "Pizza cooked with dough from Mona Lisa on a pizza stone",
+    "Image": "./images/puerto_rican_chicken_and_rice.svg",
+    "MealType": 3
+  },
+  {
+    "Id": 10,
+    "Name": "Turkey Sandwich",
+    "Description": "Pizza cooked with dough from Mona Lisa on a pizza stone",
+    "Image": "./images/puerto_rican_chicken_and_rice.svg",
+    "MealType": 1
+  }
+
+]
