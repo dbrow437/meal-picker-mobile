@@ -2,6 +2,7 @@
 using MealPicker.ViewModels;
 using MealPicker.Interfaces;
 using Microsoft.Extensions.Logging;
+using MealPicker.Views;
 
 namespace MealPicker;
 
@@ -38,6 +39,7 @@ public static class MauiProgram
     public static MauiAppBuilder RegisterViewModels(this MauiAppBuilder mauiAppBuilder)
     {
         mauiAppBuilder.Services.AddSingleton<MealsViewModel>();
+        mauiAppBuilder.Services.AddTransient<MealDetailsViewModel>();
 
         return mauiAppBuilder;
     }
@@ -45,6 +47,7 @@ public static class MauiProgram
     public static MauiAppBuilder RegisterViews(this MauiAppBuilder mauiAppBuilder)
     {
         mauiAppBuilder.Services.AddSingleton<MainPage>();
+        mauiAppBuilder.Services.AddTransient<MealDetailsPage>();
 
         return mauiAppBuilder;
     }

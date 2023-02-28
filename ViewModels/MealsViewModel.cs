@@ -15,6 +15,7 @@ namespace MealPicker.ViewModels
 
         public MealsViewModel(IMealPickerService mealPickerService)
         {
+            Title = "Meal Picker";
             _mealPickerService = mealPickerService;
             GetMealsCommand = new Command(async () => await GetAllMeals());
         }

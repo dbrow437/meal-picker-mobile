@@ -8,6 +8,7 @@ namespace MealPicker.Models
         public string Description { get; set; }
         public string Image { get; set; }
 		public MealTypes MealType { get; set; }
+		public int Calories { get; set; }
 	}
 }
 
